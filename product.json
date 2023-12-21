@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "saler_id": 5,
+      "itemname": "safeguard",
+      "brandname": "samsung",
+      "itemprice": "857.71",
+      "itemstock": 72,
+      "created_at": "2023-12-19T20:36:53.000000Z",
+      "updated_at": "2023-12-19T20:36:53.000000Z"
+    },
+    {
+      "id": 2,
+      "saler_id": 1,
+      "itemname": "safeguard",
+      "brandname": "spartan",
+      "itemprice": "819.82",
+      "itemstock": 96,
+      "created_at": "2023-12-19T20:36:53.000000Z",
+      "updated_at": "2023-12-19T20:36:53.000000Z"
+    },
+    {
+      "id": 3,
+      "saler_id": 2,
+      "itemname": "safeguard",
+      "brandname": "wawi",
+      "itemprice": "471.67",
+      "itemstock": 17,
+      "created_at": "2023-12-19T20:36:53.000000Z",
+      "updated_at": "2023-12-19T20:36:53.000000Z"
+    },
+    {
+      "id": 4,
+      "saler_id": 5,
+      "itemname": "ball",
+      "brandname": "adidas",
+      "itemprice": "752.66",
+      "itemstock": 59,
+      "created_at": "2023-12-19T20:36:53.000000Z",
+      "updated_at": "2023-12-19T20:36:53.000000Z"
+    },
+    {
+      "id": 5,
+      "saler_id": 4,
+      "itemname": "palmolive",
+      "brandname": "wawi",
+      "itemprice": "840.27",
+      "itemstock": 70,
+      "created_at": "2023-12-19T20:36:53.000000Z",
+      "updated_at": "2023-12-19T20:36:53.000000Z"
+    }
+  ]

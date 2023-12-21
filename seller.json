@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "fullname": "Bradley Wisoky DDS",
+      "address": "73303 Marlen Ferry\nSouth Ariellemouth, WI 91209",
+      "sex": "male",
+      "created_at": "2023-12-19T20:36:53.000000Z",
+      "updated_at": "2023-12-19T20:36:53.000000Z"
+    },
+    {
+      "id": 2,
+      "fullname": "Prof. Emmett Quigley I",
+      "address": "481 Sipes Port Apt. 006\nGeotown, SC 92936-8889",
+      "sex": "male",
+      "created_at": "2023-12-19T20:36:53.000000Z",
+      "updated_at": "2023-12-19T20:36:53.000000Z"
+    },
+    {
+      "id": 3,
+      "fullname": "Gudrun Kiehn",
+      "address": "67409 Demarcus Bypass\nSouth Harrisonville, AK 83943",
+      "sex": "male",
+      "created_at": "2023-12-19T20:36:53.000000Z",
+      "updated_at": "2023-12-19T20:36:53.000000Z"
+    },
+    {
+      "id": 4,
+      "fullname": "Ted Grimes",
+      "address": "276 Trantow Mountain Apt. 929\nNew Lonieport, NC 95599",
+      "sex": "male",
+      "created_at": "2023-12-19T20:36:53.000000Z",
+      "updated_at": "2023-12-19T20:36:53.000000Z"
+    },
+    {
+      "id": 5,
+      "fullname": "Hipolito Rogahn",
+      "address": "2187 Bogisich Course\nWillside, VA 13910-3474",
+      "sex": "female",
+      "created_at": "2023-12-19T20:36:53.000000Z",
+      "updated_at": "2023-12-19T20:36:53.000000Z"
+    }
+  ]
